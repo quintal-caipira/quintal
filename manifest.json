@@ -1,5 +1,5 @@
-    "scope": "/https://quintalcaipira.lojaintegrada.com.br/",
-    "start_url": "/https://quintalcaipira.lojaintegrada.com.br/",
+    "scope": "https://quintalcaipira.lojaintegrada.com.br/",
+    "start_url": "https://quintalcaipira.lojaintegrada.com.br/",
     "name": "Quintal Caipira",
     "short_name": "Quintal",
     "description": "Caipira",
